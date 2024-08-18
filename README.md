@@ -1,7 +1,10 @@
 # Phython-Intro-for-Data-Science
 This resposittory holds all the files seen during the CodeSpace Bootcamp for Data Science
 
-## Index
+# Installation
 
-cambio prueba clase 16.07.2024
+To install the requiered package, run the following command:
 
+```bash
+pit install -r requierements.txt
+```
