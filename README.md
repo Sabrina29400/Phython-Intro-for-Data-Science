@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Sabrina</h1>
-<p>Soy una profesional de Recursos Humanos con amplia experiencia en la gestión de talento y desarrollo organizacional. He expandido mis competencias mediante la formación en Ciencia de Datos, impulsadA por mi compromiso con la mejora continua y el crecimiento tanto profesional como personal.
+<p>Soy una profesional de Recursos Humanos con amplia experiencia en la gestión de talento y desarrollo organizacional. Mi inquietud por la mejora contínua me lleva a iniciarme en la Ciencia de Datos.
 
 ## Sobre mí
 
