@@ -1,12 +1,12 @@
 <h1>Hi 👋, I'm Sabrina</h1>
-<p>Soy una profesional de Recursos Humanos con amplia experiencia en la gestión de talento y desarrollo organizacional. Mi inquietud por los nuevos retos me lleva a iniciarme en la Ciencia de Datos.
+<p>I am a Human Resources professional with extensive experience in talent management and organizational development. My curiosity for new challenges has led me to venture into Data Science.
 
 ## Sobre mí
 
-- 🎓 **Formación**: Técnico Especialista en Informática de Gestión, Diplomada en Relaciones Laborales y Master en Gestión Ingegral de RRHH.
-- 💼 **Experiencia**: Más de 20 años en RRHH, con un enfoque en la integración de tecnologías avanzadas para la gestión de datos y optimización de procedimientos.
-- 📊 **Habilidades**: Análisis de datos, Gestión de Proyectos, desarrollo de estrategias de talento, geston de Personas y colectivos.
-- 🚀 **Proyectos**: Implementación de sistemas para análisis de rendimiento y automatización de procesos de gestión de RRHH.
+- 🎓 **Education**: Specialist Technician in Management Informatics, Degree in Labor Relations, and Master's in Comprehensive HR Management.
+- 💼 **Experience**: Over 20 years in HR, with a focus on integrating advanced technologies for data management and process optimization.
+- 📊 **Skills**: Data analysis, Project Management, talent strategy development, and management of people and groups.
+- 🚀 **Projects**: Implementation of systems for performance analysis and automation of HR management processes.
 
 ## Contacto
 
